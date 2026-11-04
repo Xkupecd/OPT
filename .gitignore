@@ -1,0 +1,18 @@
+# MATLAB – autosave, dočasné a cache súbory
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+codegen/
+
+# Archív kostry (rozbalená kópia je v Cvicenia/optim_course/optim_course/)
+*.zip
+
+# Windows / editory
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Claude Code – lokálne nastavenia
+.claude/settings.local.json
